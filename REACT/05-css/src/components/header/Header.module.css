@@ -1,0 +1,22 @@
+.header{
+    background-color: aqua;
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.btn{
+    border: none;
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+}

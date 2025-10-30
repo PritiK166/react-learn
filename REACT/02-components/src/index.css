@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li{
+  list-style-type: none;
+  padding-left: 40px;
+}
+.card{
+  background-color: aquamarine;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
